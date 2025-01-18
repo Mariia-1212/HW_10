@@ -1,0 +1,87 @@
+    1  cdHW_10
+    2  help
+    3  help ls
+    4  info ls
+    5  ls
+    6  man ls
+    7  ls -help
+    8  man -k ls
+    9  q
+   10  clear
+   11  ls
+   12  clear
+   13  ls GoIt
+   14  ls
+   15  clear
+   16  cd GoiT
+   17  ls
+   18  cd Desktop
+   19  ls 
+   20  cd GoIT
+   21  cd :
+   22  cd ..
+   23  cd ..
+   24  ls
+   25  cd Desktop
+   26  cd ~
+   27  ls
+   28  cd Desktop
+   29  cd GoIT
+   30  cddcc
+   31  pppp
+   32  pwd
+   33  clear
+   34  ls 
+   35  cd~
+   36  cd ~
+   37  ls
+   38  cd D
+   39  cd Desktop
+   40  mkdir Lesson
+   41  touch empty.txt
+   42  touch empty.doc
+   43  touch empty.txt
+   44  vim empty.txt
+   45  global user.name "Mariia Yermonchyk"
+   46  git config --global user.name "Mariia Yermonchyk"
+   47  git config --global user.email mahaon1212@gmail.com
+   48  git clone https://github.com/Mariia-1212/HW_10.git
+   49  cd HW_10
+   50  git status
+   51  touch text_ignore.txt
+   52  none text_ignore.txt
+   53  nano text_ignore.txt
+   54  nano .gitignore
+   55  git status
+   56  git add text_ignore.txt
+   57  git add .gitignore
+   58  git commit -m "New file created&changed .gitignore"
+   59  git status
+   60  touch main_test.txt
+   61  git add main_test.txt
+   62  git commit -m "Created main_test"
+   63  git branch
+   64  git checkout -b Develop
+   65  git branch
+   66  git checkout Develop
+   67  touch develop_test.txt
+   68  git add Develop
+   69  git add develop_test.txt
+   70  git status
+   71  git commit -m "Created new branch&new file"
+   72  git checkout main
+   73  git checkout Develop
+   74  nano develop_test.txt
+   75  git status
+   76  git add develop_test.txt
+   77  git commit -m "Changed develop_test"
+   78  git status
+   79  git checkout main
+   80  git merge Develop
+   81  git branch
+   82  git status
+   83  git commit
+   84  git commit -m "Merged branches"
+   85  git log
+   86  command_list.csv
+   87  history>command_list.csv
